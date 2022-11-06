@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDVRandomizer", "IDVRandomizer\IDVRandomizer.csproj", "{51499509-A746-463A-B6A9-F94B80FD115C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDVRandomizerTests", "IDVRandomizerTests\IDVRandomizerTests.csproj", "{5D03FC82-6C29-46E9-8FCD-66137B7496BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{51499509-A746-463A-B6A9-F94B80FD115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51499509-A746-463A-B6A9-F94B80FD115C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{51499509-A746-463A-B6A9-F94B80FD115C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5D03FC82-6C29-46E9-8FCD-66137B7496BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D03FC82-6C29-46E9-8FCD-66137B7496BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D03FC82-6C29-46E9-8FCD-66137B7496BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D03FC82-6C29-46E9-8FCD-66137B7496BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
