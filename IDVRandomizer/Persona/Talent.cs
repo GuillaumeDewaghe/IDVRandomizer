@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IDVRandomizer.Persona
+﻿namespace IDVRandomizer.Persona
 {
     /// <summary>
     /// Talent from the persona web
@@ -20,14 +14,9 @@ namespace IDVRandomizer.Persona
         /// </summary>
         public Occurence Occurence { get; set; }
         /// <summary>
-        /// Neighbours of the talent
+        /// Neighbourhood of the talent
         /// </summary>
-        public Neighbours Neighbours { get; set; }
-
-        public Talent()
-        {
-
-        }
+        public Neighbourhood Neighbourhood { get; set; }
 
         /// <summary>
         /// Creates a talent with a name and an occurence
@@ -38,12 +27,12 @@ namespace IDVRandomizer.Persona
         {
             Name = name;
             Occurence = occurence;
-            Neighbours = new Neighbours();
+            Neighbourhood = new Neighbourhood();
         }
 
         public override String ToString()
         {
-            return "Talent { Name = " + Name + ", " + Occurence + ", " + Neighbours + " }";
+            return "Talent { Name = " + Name + ", " + Occurence + ", " + Neighbourhood + " }";
         }      
     }
 }
