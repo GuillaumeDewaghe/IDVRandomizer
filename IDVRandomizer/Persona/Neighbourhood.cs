@@ -5,6 +5,8 @@
     /// </summary>
     public class Neighbourhood
     {
+        #region Parameters
+
         /// <summary>
         /// Previous talent
         /// </summary>
@@ -14,14 +16,9 @@
         /// </summary>
         public List<string> Children { get; set; }
 
-        /// <summary>
-        /// Creates a neighbourhood with values at null
-        /// </summary>
-        public Neighbourhood()
-        {
-            Parent = "";
-            Children = new List<string>();
-        }
+        #endregion
+
+        #region Constructors
 
         /// <summary>
         /// Creates a neighbourhood with a parent
@@ -53,6 +50,8 @@
             Parent = parent;
             Children = children;
         }
+
+        #endregion
 
         public override string ToString()
         {

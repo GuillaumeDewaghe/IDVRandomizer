@@ -1,6 +1,9 @@
 ﻿namespace IDVRandomizer.Persona
 {
-    public enum Max
+    /// <summary>
+    /// Number of points max possible for a talent
+    /// </summary>
+    public enum Maximum
     {
         One = 1,
         Three = 3
@@ -11,22 +14,25 @@
     /// </summary>
     public class Occurence
     {
+        #region Parameters
+
         /// <summary>
         /// Current number of points given to the talent
         /// </summary>
-        public int Current { get; set; }
+        public int Current { get; set; } = 0;
         /// <summary>
         /// Number max of points which can be given to the talent
         /// </summary>
-        public Max Max { get; set; }
+        public Maximum Max { get; set; }
+
+        #endregion
 
         /// <summary>
         /// Creates an occurence with a max
         /// </summary>
         /// <param name="max"> Max points </param>
-        public Occurence(Max max)
+        public Occurence(Maximum max)
         {
-            Current = 0;
             Max = max;
         }
 

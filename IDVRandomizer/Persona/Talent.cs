@@ -5,6 +5,8 @@
     /// </summary>
     public class Talent
     {
+        #region Parameters
+
         /// <summary>
         /// Name of the talent
         /// </summary>
@@ -18,17 +20,39 @@
         /// </summary>
         public Neighbourhood Neighbourhood { get; set; }
 
-        /// <summary>
-        /// Creates a talent with a name and an occurence
-        /// </summary>
-        /// <param name="name"> Name of the talent </param>
-        /// <param name="occurence"> Occurence of the talent </param>
-        public Talent(string name, Occurence occurence)
+        #endregion
+
+        #region Constructors
+
+        public Talent(string name, Maximum max, string parent)
+        {
+            Name = name;
+            Occurence = new(max);
+            Neighbourhood = new(parent);
+        }
+
+        public Talent(string name, Maximum max, List<string> children)
+        {
+            Name = name;
+            Occurence = new(max);
+            Neighbourhood = new(children);
+        }
+
+        public Talent(string name, Occurence occurence, Neighbourhood neighbourhood) 
         {
             Name = name;
             Occurence = occurence;
-            Neighbourhood = new Neighbourhood();
+            Neighbourhood = neighbourhood;
         }
+
+        public Talent(string name, Maximum max, string parent, List<string> children) 
+        {
+            Name = name;
+            Occurence = new(max);
+            Neighbourhood = new(parent, children);
+        }
+
+        #endregion
 
         public override String ToString()
         {

@@ -117,28 +117,220 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="HunterEastTalent1" xml:space="preserve">
+    <value>Constrain</value>
+  </data>
+  <data name="HunterEastTalent2" xml:space="preserve">
+    <value>Announcement</value>
+  </data>
+  <data name="HunterEastTalent3" xml:space="preserve">
+    <value>Hunter's Instinct</value>
+  </data>
+  <data name="HunterEastTalent4" xml:space="preserve">
+    <value>Desperate Fight</value>
+  </data>
+  <data name="HunterEastTalent5" xml:space="preserve">
+    <value>Wanted Order</value>
+  </data>
+  <data name="HunterEastTalent6" xml:space="preserve">
+    <value>Impact</value>
+  </data>
+  <data name="HunterEastTalent7" xml:space="preserve">
+    <value>Hospitable</value>
+  </data>
+  <data name="HunterEastTalent8" xml:space="preserve">
+    <value>Addiction</value>
+  </data>
+  <data name="HunterEastTalent9" xml:space="preserve">
+    <value>Trump Card</value>
+  </data>
+  <data name="HunterNorthTalent1" xml:space="preserve">
+    <value>Deterioration</value>
+  </data>
+  <data name="HunterNorthTalent2" xml:space="preserve">
+    <value>Panic</value>
+  </data>
+  <data name="HunterNorthTalent3" xml:space="preserve">
+    <value>Wither</value>
+  </data>
+  <data name="HunterNorthTalent4" xml:space="preserve">
+    <value>Nostagic</value>
+  </data>
+  <data name="HunterNorthTalent5" xml:space="preserve">
+    <value>Rage</value>
+  </data>
+  <data name="HunterNorthTalent6" xml:space="preserve">
+    <value>Berserker</value>
+  </data>
+  <data name="HunterNorthTalent7" xml:space="preserve">
+    <value>Destructiveness</value>
+  </data>
+  <data name="HunterNorthTalent8" xml:space="preserve">
+    <value>Mischiveous</value>
+  </data>
+  <data name="HunterNorthTalent9" xml:space="preserve">
+    <value>Confined Space</value>
+  </data>
+  <data name="HunterSouthTalent1" xml:space="preserve">
+    <value>Inertia</value>
+  </data>
+  <data name="HunterSouthTalent2" xml:space="preserve">
+    <value>Quenching Effect</value>
+  </data>
+  <data name="HunterSouthTalent3" xml:space="preserve">
+    <value>Mock</value>
+  </data>
+  <data name="HunterSouthTalent4" xml:space="preserve">
+    <value>No Survivors</value>
+  </data>
+  <data name="HunterSouthTalent5" xml:space="preserve">
+    <value>Control Freak</value>
+  </data>
+  <data name="HunterSouthTalent6" xml:space="preserve">
+    <value>Giant Claw</value>
+  </data>
+  <data name="HunterSouthTalent7" xml:space="preserve">
+    <value>Carnival</value>
+  </data>
+  <data name="HunterSouthTalent8" xml:space="preserve">
+    <value>Impulsive</value>
+  </data>
+  <data name="HunterSouthTalent9" xml:space="preserve">
+    <value>Detention</value>
+  </data>
+  <data name="HunterWestTalent1" xml:space="preserve">
+    <value>Deer Hunt</value>
+  </data>
+  <data name="HunterWestTalent2" xml:space="preserve">
+    <value>Exhibitionist</value>
+  </data>
+  <data name="HunterWestTalent3" xml:space="preserve">
+    <value>Tolerance</value>
+  </data>
+  <data name="HunterWestTalent4" xml:space="preserve">
+    <value>Control Freak</value>
+  </data>
+  <data name="HunterWestTalent5" xml:space="preserve">
+    <value>Hunt</value>
+  </data>
+  <data name="HunterWestTalent6" xml:space="preserve">
+    <value>Street Sweeper</value>
+  </data>
+  <data name="HunterWestTalent7" xml:space="preserve">
+    <value>After Effects</value>
+  </data>
+  <data name="HunterWestTalent8" xml:space="preserve">
+    <value>Claustrophobia</value>
+  </data>
+  <data name="HunterWestTalent9" xml:space="preserve">
+    <value>Insolence</value>
+  </data>
   <data name="SurvivorEastTalent1" xml:space="preserve">
     <value>Curiosity</value>
   </data>
   <data name="SurvivorEastTalent2" xml:space="preserve">
-    <value>Escape</value>
-  </data>
-  <data name="SurvivorEastTalent3" xml:space="preserve">
-    <value>Compensate</value>
-  </data>
-  <data name="SurvivorEastTalent4" xml:space="preserve">
-    <value>Borrowed Time</value>
-  </data>
-  <data name="SurvivorEastTalent5" xml:space="preserve">
     <value>Distraction</value>
   </data>
-  <data name="SurvivorEastTalent6" xml:space="preserve">
+  <data name="SurvivorEastTalent3" xml:space="preserve">
+    <value>Escape</value>
+  </data>
+  <data name="SurvivorEastTalent4" xml:space="preserve">
+    <value>Telepathy</value>
+  </data>
+  <data name="SurvivorEastTalent5" xml:space="preserve">
     <value>Snooze</value>
   </data>
-  <data name="SurvivorEastTalent7" xml:space="preserve">
+  <data name="SurvivorEastTalent6" xml:space="preserve">
     <value>Self Deception</value>
   </data>
+  <data name="SurvivorEastTalent7" xml:space="preserve">
+    <value>Compensate</value>
+  </data>
   <data name="SurvivorEastTalent8" xml:space="preserve">
+    <value>Companion Effect</value>
+  </data>
+  <data name="SurvivorEastTalent9" xml:space="preserve">
+    <value>Borrowed Time</value>
+  </data>
+  <data name="SurvivorNorthTalent1" xml:space="preserve">
+    <value>Herd Behaviour</value>
+  </data>
+  <data name="SurvivorNorthTalent2" xml:space="preserve">
+    <value>Survivor's Instinct</value>
+  </data>
+  <data name="SurvivorNorthTalent3" xml:space="preserve">
+    <value>Sticker</value>
+  </data>
+  <data name="SurvivorNorthTalent4" xml:space="preserve">
+    <value>Mutual Support</value>
+  </data>
+  <data name="SurvivorNorthTalent5" xml:space="preserve">
+    <value>Healing</value>
+  </data>
+  <data name="SurvivorNorthTalent6" xml:space="preserve">
+    <value>Air Walk</value>
+  </data>
+  <data name="SurvivorNorthTalent7" xml:space="preserve">
+    <value>Symbiotic Effect</value>
+  </data>
+  <data name="SurvivorNorthTalent8" xml:space="preserve">
+    <value>Obsessive</value>
+  </data>
+  <data name="SurvivorNorthTalent9" xml:space="preserve">
+    <value>Flywheel Effect</value>
+  </data>
+  <data name="SurvivorSouthTalent1" xml:space="preserve">
+    <value>Drawbridge Effect</value>
+  </data>
+  <data name="SurvivorSouthTalent2" xml:space="preserve">
+    <value>Sneak</value>
+  </data>
+  <data name="SurvivorSouthTalent3" xml:space="preserve">
+    <value>Savior Complex</value>
+  </data>
+  <data name="SurvivorSouthTalent4" xml:space="preserve">
     <value>Cold</value>
+  </data>
+  <data name="SurvivorSouthTalent5" xml:space="preserve">
+    <value>Doctor</value>
+  </data>
+  <data name="SurvivorSouthTalent6" xml:space="preserve">
+    <value>Shelter</value>
+  </data>
+  <data name="SurvivorSouthTalent7" xml:space="preserve">
+    <value>Herd Mentality</value>
+  </data>
+  <data name="SurvivorSouthTalent8" xml:space="preserve">
+    <value>Mech Elite</value>
+  </data>
+  <data name="SurvivorSouthTalent9" xml:space="preserve">
+    <value>Tide Turner</value>
+  </data>
+  <data name="SurvivorWestTalent1" xml:space="preserve">
+    <value>Risky Move</value>
+  </data>
+  <data name="SurvivorWestTalent2" xml:space="preserve">
+    <value>Prisoner's Dilemma</value>
+  </data>
+  <data name="SurvivorWestTalent3" xml:space="preserve">
+    <value>Horsefly Effect</value>
+  </data>
+  <data name="SurvivorWestTalent4" xml:space="preserve">
+    <value>Exit Path</value>
+  </data>
+  <data name="SurvivorWestTalent5" xml:space="preserve">
+    <value>Great Power</value>
+  </data>
+  <data name="SurvivorWestTalent6" xml:space="preserve">
+    <value>Will to Survive</value>
+  </data>
+  <data name="SurvivorWestTalent7" xml:space="preserve">
+    <value>Muscle Memory</value>
+  </data>
+  <data name="SurvivorWestTalent8" xml:space="preserve">
+    <value>Brewing Effect</value>
+  </data>
+  <data name="SurvivorWestTalent9" xml:space="preserve">
+    <value>Knee Jerk Reflex</value>
   </data>
 </root>

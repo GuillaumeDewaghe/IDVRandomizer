@@ -61,6 +61,330 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Constrain.
+        /// </summary>
+        public static string HunterEastTalent1 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Announcement.
+        /// </summary>
+        public static string HunterEastTalent2 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hunter&apos;s Instinct.
+        /// </summary>
+        public static string HunterEastTalent3 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Desperate Fight.
+        /// </summary>
+        public static string HunterEastTalent4 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wanted Order.
+        /// </summary>
+        public static string HunterEastTalent5 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Impact.
+        /// </summary>
+        public static string HunterEastTalent6 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hospitable.
+        /// </summary>
+        public static string HunterEastTalent7 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Addiction.
+        /// </summary>
+        public static string HunterEastTalent8 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Trump Card.
+        /// </summary>
+        public static string HunterEastTalent9 {
+            get {
+                return ResourceManager.GetString("HunterEastTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deterioration.
+        /// </summary>
+        public static string HunterNorthTalent1 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Panic.
+        /// </summary>
+        public static string HunterNorthTalent2 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wither.
+        /// </summary>
+        public static string HunterNorthTalent3 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nostagic.
+        /// </summary>
+        public static string HunterNorthTalent4 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rage.
+        /// </summary>
+        public static string HunterNorthTalent5 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Berserker.
+        /// </summary>
+        public static string HunterNorthTalent6 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Destructiveness.
+        /// </summary>
+        public static string HunterNorthTalent7 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mischiveous.
+        /// </summary>
+        public static string HunterNorthTalent8 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Confined Space.
+        /// </summary>
+        public static string HunterNorthTalent9 {
+            get {
+                return ResourceManager.GetString("HunterNorthTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Inertia.
+        /// </summary>
+        public static string HunterSouthTalent1 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Quenching Effect.
+        /// </summary>
+        public static string HunterSouthTalent2 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mock.
+        /// </summary>
+        public static string HunterSouthTalent3 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to No Survivors.
+        /// </summary>
+        public static string HunterSouthTalent4 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Control Freak.
+        /// </summary>
+        public static string HunterSouthTalent5 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Giant Claw.
+        /// </summary>
+        public static string HunterSouthTalent6 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Carnival.
+        /// </summary>
+        public static string HunterSouthTalent7 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Impulsive.
+        /// </summary>
+        public static string HunterSouthTalent8 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Detention.
+        /// </summary>
+        public static string HunterSouthTalent9 {
+            get {
+                return ResourceManager.GetString("HunterSouthTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deer Hunt.
+        /// </summary>
+        public static string HunterWestTalent1 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Exhibitionist.
+        /// </summary>
+        public static string HunterWestTalent2 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tolerance.
+        /// </summary>
+        public static string HunterWestTalent3 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Control Freak.
+        /// </summary>
+        public static string HunterWestTalent4 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hunt.
+        /// </summary>
+        public static string HunterWestTalent5 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Street Sweeper.
+        /// </summary>
+        public static string HunterWestTalent6 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to After Effects.
+        /// </summary>
+        public static string HunterWestTalent7 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Claustrophobia.
+        /// </summary>
+        public static string HunterWestTalent8 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Insolence.
+        /// </summary>
+        public static string HunterWestTalent9 {
+            get {
+                return ResourceManager.GetString("HunterWestTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Curiosity.
         /// </summary>
         public static string SurvivorEastTalent1 {
@@ -70,7 +394,7 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Escape.
+        ///   Looks up a localized string similar to Distraction.
         /// </summary>
         public static string SurvivorEastTalent2 {
             get {
@@ -79,7 +403,7 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Compensate.
+        ///   Looks up a localized string similar to Escape.
         /// </summary>
         public static string SurvivorEastTalent3 {
             get {
@@ -88,7 +412,7 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Borrowed Time.
+        ///   Looks up a localized string similar to Telepathy.
         /// </summary>
         public static string SurvivorEastTalent4 {
             get {
@@ -97,7 +421,7 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Distraction.
+        ///   Looks up a localized string similar to Snooze.
         /// </summary>
         public static string SurvivorEastTalent5 {
             get {
@@ -106,7 +430,7 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Snooze.
+        ///   Looks up a localized string similar to Self Deception.
         /// </summary>
         public static string SurvivorEastTalent6 {
             get {
@@ -115,7 +439,7 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Self Deception.
+        ///   Looks up a localized string similar to Compensate.
         /// </summary>
         public static string SurvivorEastTalent7 {
             get {
@@ -124,11 +448,263 @@ namespace IDVRandomizer.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Cold.
+        ///   Looks up a localized string similar to Companion Effect.
         /// </summary>
         public static string SurvivorEastTalent8 {
             get {
                 return ResourceManager.GetString("SurvivorEastTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Borrowed Time.
+        /// </summary>
+        public static string SurvivorEastTalent9 {
+            get {
+                return ResourceManager.GetString("SurvivorEastTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Herd Behaviour.
+        /// </summary>
+        public static string SurvivorNorthTalent1 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Survivor&apos;s Instinct.
+        /// </summary>
+        public static string SurvivorNorthTalent2 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sticker.
+        /// </summary>
+        public static string SurvivorNorthTalent3 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mutual Support.
+        /// </summary>
+        public static string SurvivorNorthTalent4 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Healing.
+        /// </summary>
+        public static string SurvivorNorthTalent5 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Air Walk.
+        /// </summary>
+        public static string SurvivorNorthTalent6 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Symbiotic Effect.
+        /// </summary>
+        public static string SurvivorNorthTalent7 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Obsessive.
+        /// </summary>
+        public static string SurvivorNorthTalent8 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flywheel Effect.
+        /// </summary>
+        public static string SurvivorNorthTalent9 {
+            get {
+                return ResourceManager.GetString("SurvivorNorthTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Drawbridge Effect.
+        /// </summary>
+        public static string SurvivorSouthTalent1 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sneak.
+        /// </summary>
+        public static string SurvivorSouthTalent2 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Savior Complex.
+        /// </summary>
+        public static string SurvivorSouthTalent3 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cold.
+        /// </summary>
+        public static string SurvivorSouthTalent4 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Doctor.
+        /// </summary>
+        public static string SurvivorSouthTalent5 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Shelter.
+        /// </summary>
+        public static string SurvivorSouthTalent6 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Herd Mentality.
+        /// </summary>
+        public static string SurvivorSouthTalent7 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Mech Elite.
+        /// </summary>
+        public static string SurvivorSouthTalent8 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tide Turner.
+        /// </summary>
+        public static string SurvivorSouthTalent9 {
+            get {
+                return ResourceManager.GetString("SurvivorSouthTalent9", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Risky Move.
+        /// </summary>
+        public static string SurvivorWestTalent1 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Prisoner&apos;s Dilemma.
+        /// </summary>
+        public static string SurvivorWestTalent2 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Horsefly Effect.
+        /// </summary>
+        public static string SurvivorWestTalent3 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Exit Path.
+        /// </summary>
+        public static string SurvivorWestTalent4 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Great Power.
+        /// </summary>
+        public static string SurvivorWestTalent5 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Will to Survive.
+        /// </summary>
+        public static string SurvivorWestTalent6 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Muscle Memory.
+        /// </summary>
+        public static string SurvivorWestTalent7 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brewing Effect.
+        /// </summary>
+        public static string SurvivorWestTalent8 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Knee Jerk Reflex.
+        /// </summary>
+        public static string SurvivorWestTalent9 {
+            get {
+                return ResourceManager.GetString("SurvivorWestTalent9", resourceCulture);
             }
         }
     }
